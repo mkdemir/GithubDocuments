@@ -1,4 +1,4 @@
-# REGEX NEDİR?
+# REGEX NEDİR
 
 * Regex - Regular Expressions yani düzenli ifadeler. Düzenli veya düzensiz verileri düzenli bir şekilde alabilmenizi sağlayacak.
 
